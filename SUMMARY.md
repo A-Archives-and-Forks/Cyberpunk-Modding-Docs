@@ -538,6 +538,7 @@
   * [Adding a custom voiceline to a scene](modding-guides/quest/adding-a-custom-voiceline-to-a-scene.md)
   * [How to make NPCs patrol](modding-guides/quest/how-to-make-npcs-patrol.md)
   * [Generating vanilla lipsync animation sets](modding-guides/quest/generating-vanilla-lipsync-animation-sets.md)
+  * [Custom video holocalls](modding-guides/quest/custom-video-holocalls.md)
 * [HUD Painter Resource](modding-guides/hud-painter-resource.md)
 * [Everything else](modding-guides/everything-else/README.md)
   * [How to Translate a Mod](modding-guides/everything-else/how-to-translate-a-mod.md)
