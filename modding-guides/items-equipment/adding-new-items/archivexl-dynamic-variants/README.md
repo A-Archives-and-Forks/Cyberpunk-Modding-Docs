@@ -310,7 +310,7 @@ new: *manavortex/equipment/torso_inner/my_custom_shirt/meshes/t1_079_p{gender}a_
 
 #### Change mesh file paths:
 
-Re-name all your existing meshes by adding `base_body`  to their paths. This `must` correspond to the `{body}`  placeholder in the component path.&#x20;
+Re-name all your existing meshes by adding `base_body`  to their paths. This **must** correspond to the `{body}`  placeholder in the component path.&#x20;
 
 Example:
 
@@ -365,18 +365,13 @@ By default, our `_mesh.ent` looks like this (because the generator re-uses CDPR'
 
 <figure><img src="../../../../.gitbook/assets/image (653).png" alt=""><figcaption></figcaption></figure>
 
-As you can see, the paths are already dynamic - the `m` or `w` has been replaced with `{gender}`. This makes sure that our mod will display the right file based on your V's body gender.
-
-{% hint style="info" %}
-This is incredibly powerful — for example, by using `{body}`, you make ArchiveXL pick the correct refit per body mod.\
-[archivexl-suffixes-and-substitutions.md](../../../../for-mod-creators-theory/core-mods-explained/archivexl/archivexl-suffixes-and-substitutions.md "mention") contains a full list of suffixes and substitutions, but do finish this guide and its exercises before playing around even further!
-{% endhint %}
+As explained in earlier sections of the guide, these paths are already dynamic.
 
 Now, let's get that decal connected.
 
-1. Select the first deactivated component, and turn it on by checking a few of the boxes (e.g. the first 3).
+1. Select the first deactivated component, and turn it on by expanding the `chunkMask` dropdown and checking a few of the boxes (e.g. the first 3).
 2. Select the second and third deactivated component, and delete them.
-3. Based on the value of `secondary` (see the expandable above), we have the following values for variant.2:
+3. Based on the value of `secondary` from your yaml file (see the **expandable** above), we have the following values for variant.2:
    * `galaxy`
    * `samurai`
    * `witcher`
