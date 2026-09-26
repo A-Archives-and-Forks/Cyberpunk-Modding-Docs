@@ -539,6 +539,7 @@
   * [How to make NPCs patrol](modding-guides/quest/how-to-make-npcs-patrol.md)
   * [Generating vanilla lipsync animation sets](modding-guides/quest/generating-vanilla-lipsync-animation-sets.md)
   * [Custom video holocalls](modding-guides/quest/custom-video-holocalls.md)
+  * [Johnny glitching and talking with V](modding-guides/quest/johnny-glitching-and-talking-with-v.md)
 * [HUD Painter Resource](modding-guides/hud-painter-resource.md)
 * [Everything else](modding-guides/everything-else/README.md)
   * [How to Translate a Mod](modding-guides/everything-else/how-to-translate-a-mod.md)

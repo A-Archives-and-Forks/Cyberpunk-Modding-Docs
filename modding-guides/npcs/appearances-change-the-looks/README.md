@@ -28,6 +28,7 @@ You can find a more detailed guide under [altering-appearances-within-wolvenkit-
 * If you want to add V as an NPC, check [npv-v-as-custom-npc](../npv-v-as-custom-npc/ "mention")
 * If you want a more basic guide that goes into more detail for the basic stuff (including Blender), see [altering-appearances-within-wolvenkit-full-workflow.md](altering-appearances-within-wolvenkit-full-workflow.md "mention")
 * If you're after hair colours, check [hair-profiles-.hp.md](../../../for-mod-creators-theory/files-and-what-they-do/file-formats/materials/hair-profiles-.hp.md "mention") and follow the links from there.
+* if you want to create a scene with Johnny, where he glitches in, talks, glitches out, check [this guide](../../quest/johnny-glitching-and-talking-with-v.md) .
 
 ***
 

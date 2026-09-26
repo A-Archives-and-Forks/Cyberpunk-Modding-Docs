@@ -20,6 +20,7 @@ Don't forget: To quickly find somebody's entry, you can use your browser's searc
 * To create custom NPCs, see [amm-custom-npcs](../../../modding-guides/npcs/amm-custom-npcs/ "mention")
 * To create V as an NPC, see [npv-v-as-custom-npc](../../../modding-guides/npcs/npv-v-as-custom-npc/ "mention")
 * To find the files of an AMM NPC, check the sub-page [finding-files-amm-npcs.md](finding-files-amm-npcs.md "mention")
+* To create a scene with Johnny, where he glitches in, talks, glitches out, check [this guide](../../../modding-guides/quest/johnny-glitching-and-talking-with-v.md) .
 
 ***
 
